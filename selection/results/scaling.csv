@@ -1,0 +1,22 @@
+algorithm,n,seconds
+quickselect (randomized),1000,0.00013240000407677144
+median-of-medians (deterministic),1000,0.000258400003076531
+sorted()[k] baseline,1000,4.640000406652689e-05
+quickselect (randomized),3000,0.0003415000028326176
+median-of-medians (deterministic),3000,0.0008152999944286421
+sorted()[k] baseline,3000,0.00018840000120690092
+quickselect (randomized),10000,0.000956299998506438
+median-of-medians (deterministic),10000,0.002668900000571739
+sorted()[k] baseline,10000,0.0007448999967891723
+quickselect (randomized),30000,0.0036419000025489368
+median-of-medians (deterministic),30000,0.008164799997757655
+sorted()[k] baseline,30000,0.002623799999128096
+quickselect (randomized),100000,0.012830899999244139
+median-of-medians (deterministic),100000,0.028180699999211356
+sorted()[k] baseline,100000,0.010259700000460725
+quickselect (randomized),300000,0.026008000000729226
+median-of-medians (deterministic),300000,0.08624400000553578
+sorted()[k] baseline,300000,0.0349837000030675
+quickselect (randomized),1000000,0.11210030000074767
+median-of-medians (deterministic),1000000,0.30248569999821484
+sorted()[k] baseline,1000000,0.1421498999989126

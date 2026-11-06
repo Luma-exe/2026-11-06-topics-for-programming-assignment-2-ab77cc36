@@ -1,0 +1,17 @@
+algorithm,k,seconds
+quickselect (randomized),0,0.005495599994901568
+median-of-medians (deterministic),0,0.03694280000490835
+quickselect (randomized),1000,0.0048973000011756085
+median-of-medians (deterministic),1000,0.0394908000016585
+quickselect (randomized),10000,0.008124200001475401
+median-of-medians (deterministic),10000,0.04013880000275094
+quickselect (randomized),25000,0.011541100000613369
+median-of-medians (deterministic),25000,0.042247800003679004
+quickselect (randomized),50000,0.02036219999718014
+median-of-medians (deterministic),50000,0.051005699999223
+quickselect (randomized),75000,0.018025900004431605
+median-of-medians (deterministic),75000,0.050263500001165085
+quickselect (randomized),90000,0.01953700000012759
+median-of-medians (deterministic),90000,0.04662570000073174
+quickselect (randomized),99999,0.011379399998986628
+median-of-medians (deterministic),99999,0.06326629999966826

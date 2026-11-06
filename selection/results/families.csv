@@ -1,0 +1,19 @@
+family,algorithm,seconds
+random,quickselect (randomized),0.024127600001520477
+random,median-of-medians (deterministic),0.057195299996237736
+random,sorted()[k] baseline,0.021798800000397023
+sorted,quickselect (randomized),0.01672569999936968
+sorted,median-of-medians (deterministic),0.043856800002686214
+sorted,sorted()[k] baseline,0.0006881000008434057
+reversed,quickselect (randomized),0.017803400005504955
+reversed,median-of-medians (deterministic),0.04539649999787798
+reversed,sorted()[k] baseline,0.0008357999977306463
+10 distinct values,quickselect (randomized),0.015555500001937617
+10 distinct values,median-of-medians (deterministic),0.0346787000016775
+10 distinct values,sorted()[k] baseline,0.009096400004636962
+all equal,quickselect (randomized),0.003961100002925377
+all equal,median-of-medians (deterministic),0.0139292999956524
+all equal,sorted()[k] baseline,0.0005176000049686991
+organ pipe,quickselect (randomized),0.017947499996807892
+organ pipe,median-of-medians (deterministic),0.044197700000950135
+organ pipe,sorted()[k] baseline,0.0010301000002073124
